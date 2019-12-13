@@ -1,0 +1,8 @@
+Fri Dec 13 13:15:23 CST 2019
+we did not cover structs - not allowed
+
+Fri Dec 13 13:16:56 CST 2019
+this uses a lot of object-oriented concepts
+
+Fri Dec 13 13:17:16 CST 2019
+looks to have been plagiarized
